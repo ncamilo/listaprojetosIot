@@ -4,4 +4,8 @@
 
 [e-Health Sensor Platform](https://www.cooking-hacks.com/documentation/tutorials/ehealth-v1-biometric-sensor-platform-arduino-raspberry-pi-medical)
 
+[home-assistant.io](https://www.home-assistant.io/)
+
+[OpenIoT](https://github.com/OpenIotOrg/openiot)
+
 
